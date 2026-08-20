@@ -3,7 +3,16 @@
 - 🌱 I’m currently learning in colleage.
 - 💞️ I’m not looking to collaborate on anything,just want to broaden my horizon.
 
-![tonygyf's GitHub stats](https://github-stats-extended.vercel.app/api?username=tonygyf&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=tonygyf&show_icons=true&theme=transparent"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonygyf&layout=compact&theme=transparent"
+    height="180"
+  />
+</p>
 
 <!---
 tonygyf/tonygyf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
