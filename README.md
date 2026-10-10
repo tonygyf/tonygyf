@@ -12,10 +12,7 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonygyf&layout=compact&theme=transparent"
     height="180"
   />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tonygyf&theme=github-compact&hide_border=true"
-    width="95%"
-  />
+
 </p>
 
 <!---
